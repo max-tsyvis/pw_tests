@@ -1,0 +1,235 @@
+{
+  "cookies": [
+    {
+      "name": "_grant",
+      "value": "ff1812e0-347f-4d2f-b32b-02aee5323615",
+      "domain": ".onelogin.com",
+      "path": "/trust/openid-connect/v2",
+      "expires": 1679069476.404858,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_grant.sig",
+      "value": "OG4IumnjdP5clMqUziJi1A4HIt0",
+      "domain": ".onelogin.com",
+      "path": "/trust/openid-connect/v2",
+      "expires": 1679069476.404918,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ol_oidc_issuer_url",
+      "value": "https://agora.onelogin.com/oidc/2",
+      "domain": ".onelogin.com",
+      "path": "/trust/openid-connect/v2",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ol_oidc_issuer_url.sig",
+      "value": "4suofI1qeGOqP0WJXIBCrH5dRjg",
+      "domain": ".onelogin.com",
+      "path": "/trust/openid-connect/v2",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "102971bf1aedd113d8eac2664ff8c0d3",
+      "value": "ab1b36d4390beba1493ef02a24344448",
+      "domain": "qa.wmc.14west.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "f67537fa00055c6aaff76feec39b1b20",
+      "value": "296fae59594c6610c5ad2e8789801da2",
+      "domain": "login.waf-qa.wmc.14west.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ol_oidc_canary_116",
+      "value": "false",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ol_custom_domain",
+      "value": "%7B%22custom_domain%22%3A%22%22%2C%22tenant%22%3A%22agora%22%7D",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ol_web_login_canary_0",
+      "value": "false",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ol_web_login_proxy_15",
+      "value": "true",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ol_access_service_canary_14",
+      "value": "false",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__tdli_fp",
+      "value": "d3778fc2d4341fd81f47c564a1553f7b",
+      "domain": "agora.onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__tdli",
+      "value": "60215906a338307e55d0509cf011e80db4ea49ba57e8fa82763cd7f482a9512d",
+      "domain": "agora.onelogin.com",
+      "path": "/",
+      "expires": 1713615080.634416,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ol_access_proxy_canary_20",
+      "value": "false",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "onelogin.com_user",
+      "value": "a932232523a03af36e57a6740ecebe3421a23579",
+      "domain": ".onelogin.com",
+      "path": "/",
+      "expires": 1681733484.4286,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sub_session_onelogin.com",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVkX2F0IjoxNjc5MDU1MDcyLCJ1c2VyX2lkIjoxOTIwMjM2MDMsInZlcnNpb24iOjEsImFjY291bnRfaWQiOjU0NzMyLCJsYXN0X3JlcXVlc3QiOjE2NzkwNTUwNzMsInNlc3Npb25faWQiOiJlZGU3OThmMC00ZTE4LTQ1ZTQtOWMxMy1jNmVmZTQ1NzgwODAifQ.EVWkmiXG_yHTaRPoHgEDoKywJvhMEo4eCw2Y-ZpC9lw%7C%7CBAh7CToUc2FtbF9zZXNzaW9uX2lkIillNzQxMDdkYS01MmEzLTRlNTItOWNlZC04MmM1NjIzODI1MjQ6D2F1dGhfc3RlcHNbCCISZGVza3RvcF9sb2dpbiINdXNlcm5hbWUiDXBhc3N3b3JkOhZjb25uZWN0aW5nX3RvX2FwcGkDHVMYIh9icm93c2VyX3ZlcmlmaWNhdGlvbl90b2tlbiJFMDFiOGFhZDEzZDJhYmE5ZTZhNDUwM2U4MWE2ZmMwMmViMjAxODdiZDJmZTIxMGRlOTg3YjJlNGE3OWI3MTcxMA%3D%3D--dfbb59c4f20489c9c55dabb9ea152f536509e2ff",
+      "domain": "agora.onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_session",
+      "value": "202f89e1-bb84-448c-ad4d-d3d4b4f13d57",
+      "domain": "agora.onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_session.sig",
+      "value": "7KN304WlLx0kn9heuNO2tD08lGA",
+      "domain": "agora.onelogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "D0907654D8C70A6CF25A980A9D746195",
+      "domain": "login.waf-qa.wmc.14west.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Identity.Application",
+      "value": "CfDJ8BQx-hKU-VxOkh3pn0K_N6xuA_kx0CCl0qWmSq0U2ef4Pwq2dqyH1E8ggx_lc3WAn6fEyUPU6rvD9aTc_6xvj6uPyQA8tzXFXlMUYNXcHFz5KZyTudH8mlYjYkikVMzCuMJVWz8jDef9Kj8JmvZGm0nJOYOfUlrraMYAe_7X7zFyrS5VktaZzsL-GJy_2qG-HXT0GQoFuHHv5meVx_Iq8zQZ7gK3M5Y_1ex5JUpt6KcZC3Mb9rUd1tAgvGkpqUwy7raviek9cgunFHnhe9xyhwZ2jCKbBrCi1_yjvsDedOqnlHglmWlbK3OCy8u8pue3ycsWpomFCm-ADjnd5FzXl0350LWIoXzEkeu1jKGAl08VOM9xWr1e5_jfTTR5fR9M6Gb3gxwdmcYBbZfZR2XeXDQYIFbTjoZcIj2ySJ0AF8GXKGs5_7BQLVDoqFvEhETVX1SWf40GQXKHvvZuQKD_iFSU_fl0LCFim9cvm1hQZqZrf5MeqvJj3qcY_O5ndhX8oWAwdfIPE3tj_QeCDavqDdVifNwQj1nMsHIQvAxZTNCfLVJjgbL5YAx878lXI8pLT63OaL-i2GsSgabrZSejfeKqw1ndlTkXUkbMXD1CurdXuIqKQvYUCUoWOw2pJRnl14EjO5HhRaSzRA4xfysNjBQdiYQMYtX_66_oHwL0Zp0ooUHpG04HKmDr_a5k2Qse2ILO-uqgiO28QVfDRUjBv0bOxX0QzPz5DkmZWXfv58Z93ezCjN9xWj2XQZ7ZQztJDlv2Bc6i8Zx-tdJUi2eWg9_Po-lkZMkEAor6isgG-lzD7M55ye9yRnm1LXS0iL7AS2vEIkguCWuqiC5paUVwvSuZrdedLgxogeBx_PF5PD9t6ZJnUQgZYySZKhPtrZw3wIaGk6BvZ4td65z6ZHwVy4WzHAJbCuVkFR4YIkWY0whrm2qidEOtzxQoTKgSjoS5RxIQdSlJbNIXXAjYwgAcH_fFxXlXoW9MFUW5Kqg3CMIP8ie-1CscyD_7CHSti0VHJSVF292K3Qi7u9lsfwNm5HNSToDNC0IPeEngNFSGzTsTKF71NIkuyH9AkNXO9SvF8qNmir4Le-PxNR7Kzs17HnDWDHu0Sbhbuls_EPgGMjGSlNIDiWEc3jcwfAju68PIijfSsJgp2A53g5MS2bljU30",
+      "domain": "login.waf-qa.wmc.14west.io",
+      "path": "/",
+      "expires": 1679058694.778471,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://qa.wmc.14west.io",
+      "localStorage": [
+        {
+          "name": "ld:$anonUserId",
+          "value": "cf680570-c4bc-11ed-8693-1dd9aa4373ec"
+        },
+        {
+          "name": "oidc.user:https://login.waf-qa.wmc.14west.io:PLATFORM-SPA",
+          "value": "{\"id_token\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwRDg5NEJGQUYyRjc5QTIyOTlEM0FFQjYwM0E0OUM1QkIxRjFCM0NSUzI1NiIsInR5cCI6IkpXVCIsIng1dCI6IlFOaVV2Njh2ZWFJcG5UcnJZRHBKeGJzZkd6dyJ9.eyJuYmYiOjE2NzkwNTUwNzgsImV4cCI6MTY3OTA1NTM3OCwiaXNzIjoiaHR0cHM6Ly9sb2dpbi53YWYtcWEud21jLjE0d2VzdC5pbyIsImF1ZCI6IlBMQVRGT1JNLVNQQSIsImlhdCI6MTY3OTA1NTA3OCwiYXRfaGFzaCI6Ikk0TlNmS0dSWEV2R0dBWDRDNVk0SFEiLCJzX2hhc2giOiJTLXBjX3F6enpOQUFkYWpMSjVvTVFBIiwic2lkIjoiRDA5MDc2NTREOEM3MEE2Q0YyNUE5ODBBOUQ3NDYxOTUiLCJzdWIiOiIxYWYxNzRhYS1jM2U3LTQwOTctYTZhYi1hYTBlZTdjZjM1MTIiLCJhdXRoX3RpbWUiOjE2NzkwNTUwNzYsImlkcCI6Im9uZWxvZ2luIiwiYW1yIjpbImV4dGVybmFsIl19.SWi-KItREJakOrXpaSZIk800V-4EOzYx2e6jb1LHpVhBkGKtpLZH-Q0R5pJ8fl0vRlYJqiIWnK9jScB65RRYpg33Q2paWfUQz-LYKvkV2pMvhKLrU1Idf-i-sx7QyvRL2cMCiePCTGLqvuT7hrClsOAw-Z2TmAe4yp_BH7dqeC4K_ilgmoscGmmnoYFpvQn6DhCUlTh1yLmMFXHjoN_MjaPL9IMILmm5SkAblQ2D00jKztdqiPPXLmeP_sZmoKE_ZRKeb33HKwL5PG-TltGN9KsqaIc2lGm6CpFV5afCkjOk7ao75vFSFNVT-gD8lFPPuSJ-x1X2fh3QuJlwsmZwoYG1aXvtJj19-arMm7tBEqs08NZpzL-Z2pSFMcGZrS5OEFRHo4HrsO04KSgjMSweps-hlyqprbDX3akJ0nUicIuhD0gopMuRWXFZJTAke_dzU4Eb8acEXeCbar_WHMt18PgRJKNZBPwvKV6qnLio-gJpr4UvBL9O50XYlDowzYwTR4DWauR4u03Sxd7YbF_NvwxU5tEpt9lSf4qwLDrnZ0h7mn9gsvhP05HHacnda6BT8if2gwOHAcUDm-7xNSTPZa1hPQFpu6EiOUU1ZoiL5-QhiqYW9duzdNP0I2ZMz8jHzOGt7NoIkQzNONvmBwBkVNPQFqE3w1UdtfQDScS4Gvc\",\"session_state\":\"ZAJFaMsu2xPBEOw-xzj4NiEyJd7jctrVChELRIjahys.326856A24E328B29B515E0ABFA1A8946\",\"access_token\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwRDg5NEJGQUYyRjc5QTIyOTlEM0FFQjYwM0E0OUM1QkIxRjFCM0NSUzI1NiIsInR5cCI6ImF0K2p3dCIsIng1dCI6IlFOaVV2Njh2ZWFJcG5UcnJZRHBKeGJzZkd6dyJ9.eyJuYmYiOjE2NzkwNTUwNzgsImV4cCI6MTY3OTA1NTM3OCwiaXNzIjoiaHR0cHM6Ly9sb2dpbi53YWYtcWEud21jLjE0d2VzdC5pbyIsImF1ZCI6IlBsYXRmb3JtLkFwaSIsImNsaWVudF9pZCI6IlBMQVRGT1JNLVNQQSIsInN1YiI6IjFhZjE3NGFhLWMzZTctNDA5Ny1hNmFiLWFhMGVlN2NmMzUxMiIsImF1dGhfdGltZSI6MTY3OTA1NTA3NiwiaWRwIjoib25lbG9naW4iLCJvcmdhbml6YXRpb25JZCI6IjEiLCJuYW1lIjoiaS50ZXN0XzEiLCJzaWQiOiJEMDkwNzY1NEQ4QzcwQTZDRjI1QTk4MEE5RDc0NjE5NSIsImlhdCI6MTY3OTA1NTA3OCwic2NvcGUiOlsib3BlbmlkIiwiUGxhdGZvcm0uQXBpIiwiSXJpc1BsdXMuUHJvZmlsZSJdLCJhbXIiOlsiZXh0ZXJuYWwiXX0.Uk2itBlfykyGGlHKy7h3dwpS4B9gF6hdzoe392dN1J2bw6g3A4HWF1Bj9-unYZtTn0KPEPjyUn_CmFx6plxBq9Awfwpum2LD066XwYLDlBW4Mx_Y-RBeEZ8G2_TcogK-cOYXOE7UXZp9QSa4mY7FMC1W59mIs_YVaKscrLM3q3SG-iSKnnaIcemLurVWnEmjDbfc39bATE88WONloKgO2zkAwPaFWdp0YvbiJ3zKFhIzHM_QcpfkvYqflTPd2blak1h0dGui7rqHUcymcOMyBYjutklHcHxLcsU6qOwS2H-uf6k58mmmK54qee05x45TzOmV4w783zXQ8_Z7xT_iAt8s5hbJOMi0tZmCD40ZQGqzjvU7hLx2rXbvbIZ-MSWQJU0jrK2MDDGye4slnrC8UDZHQy-zjv8eWwNKLsXWQHdWxiOqPY2JbDBKzs_tM9C9U_xbW0OuWxmBxP374HKEM_qkOcHYEtOmK8Gz7QL-RYiFCWoXtgzLOz9UgvsQTg9gvWGJjVWems1xYnHWXBgqyZjKXG9m91Nn0yWlVeM_5nLT3Dinam71Ka6m_HXQj-n5LimleyKGZRjMPZRIu8O1jWQjWuZHcB1MefDXt5EErlHwvK0w8h6kcJp21c9Vb_EK25RdJb2fQ_k1FLPH4kqoBks6ZEB2yg3tSMKQtS-XoFg\",\"token_type\":\"Bearer\",\"scope\":\"openid Platform.Api IrisPlus.Profile\",\"profile\":{\"s_hash\":\"S-pc_qzzzNAAdajLJ5oMQA\",\"sid\":\"D0907654D8C70A6CF25A980A9D746195\",\"sub\":\"1af174aa-c3e7-4097-a6ab-aa0ee7cf3512\",\"auth_time\":1679055076,\"idp\":\"onelogin\",\"amr\":[\"external\"],\"organizationId\":\"1\",\"name\":\"i.test_1\",\"email\":\"i.test_1@14west.us\"},\"expires_at\":1679055390}"
+        },
+        {
+          "name": "platform-store",
+          "value": "{\"responseData\":{\"source\":{}},\"router\":{\"location\":{\"pathname\":\"/platform/organization\",\"search\":\"\",\"hash\":\"\",\"key\":\"eqomnk\"},\"action\":\"REPLACE\"},\"announcement\":{\"isOpenedView\":false,\"isOpenedBanner\":false,\"url\":\"/org-management/api/announcement/view/application/Platform\",\"announcements\":[],\"disabled\":false,\"isNeedMonitoringAnnouncements\":true}}"
+        },
+        {
+          "name": "oidc.271714358df2483f9d56d698615debe3",
+          "value": "{\"id\":\"271714358df2483f9d56d698615debe3\",\"created\":1679055073,\"request_type\":\"si:r\",\"code_verifier\":\"6dc7b4a488754e1481f8309900ae16ea2b8984100e7a4ca7be36f0d18b17bf8fa15ea8f5bada4108950084e4c22ef10e\",\"redirect_uri\":\"https://qa.wmc.14west.io/platform/auth/login-callback.html\",\"authority\":\"https://login.waf-qa.wmc.14west.io\",\"client_id\":\"PLATFORM-SPA\",\"response_mode\":\"query\",\"scope\":\"openid Platform.Api IrisPlus.Profile\"}"
+        },
+        {
+          "name": "oidc.9a089195cb9b4d029fa894af3a78000c",
+          "value": "{\"id\":\"9a089195cb9b4d029fa894af3a78000c\",\"created\":1679055073,\"request_type\":\"si:r\",\"code_verifier\":\"9488b146412d4af8ad5ae6f83819713b7fbb854edd5e4058b5e42fd33129e5090bbc00b5ad9a40b4b879220aa0a156be\",\"redirect_uri\":\"https://qa.wmc.14west.io/platform/auth/login-callback.html\",\"authority\":\"https://login.waf-qa.wmc.14west.io\",\"client_id\":\"PLATFORM-SPA\",\"response_mode\":\"query\",\"scope\":\"openid Platform.Api IrisPlus.Profile\"}"
+        },
+        {
+          "name": "listing.state.organization",
+          "value": "{\"columns\":[],\"filters\":{\"title\":\"\",\"range\":{}}}"
+        }
+      ]
+    }
+  ]
+}
